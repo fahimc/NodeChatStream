@@ -1,0 +1,13 @@
+{
+  "name": "nodechatstream",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "socket.io-stream": "*",
+    "microphone": "*",
+    "speaker": "*",
+    "raspicam": "*",
+    "lame": "*"
+  }
+}
